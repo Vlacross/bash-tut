@@ -1,0 +1,14 @@
+Following Bash tutorial @ https://linuxconfig.org/bash-scripting-tutorial-for-beginners
+____________________________________________________________________
+
+make script executable by running "chmod +x <filename>" 
+
+stdin = standard input
+stdout = standard output
+stderr = standard error response
+
+directing output to a txt file using ">"
+    direct stderr = "2> err.txt"
+    direct stdout and stf err = "&> both.txt"
+    
+

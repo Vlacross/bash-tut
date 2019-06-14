@@ -1,0 +1,4 @@
+using the line "cat > file.txt" opens a text prompt that allows input
+from the keyboard. It will continue inputting until CTRL+D is pressed.
+
+Then using the line "cat < file.txt" will input the file to the cat command
