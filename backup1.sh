@@ -1,4 +1,11 @@
 #!/bin/bash
 
-tar -czf /tmp/my_docs.tar.gz /home/nokea/Documents
+user=$(whoami)
+input=/home/$user/Documents
+output=/tmp/${user}_docs_$(date +%Y-%m-%d+%H%M%S).tar.gz
+
+tar -czf $output $input
+
+echo "Backup of $input completed! Details about the output file:"
+ls -l $output
 
