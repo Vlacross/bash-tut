@@ -12,16 +12,31 @@ function total_directories {
 	find $1 -type d | wc -l
 }
 
+function total_archived_directories {
+	tar -tzf $1 | grep /$ | wc -l
+}
+
+function total_archived_files {
+	tar -tzf $1 | grep -v /$ | wc -l
+}
+
 tar -czf $output $input 2> /dev/null
 
-echo -n "Number of files to be included:"
-total_files $input
+src_files=$( total_files $input )
+src_directories=$( total_directories $input )
 
-echo -n "Number of directories to be included:"
-total_directories $input
+arch_files=$( total_archived_files $output )
+arch_directories=$( total_archived_directories $output )
 
+echo "Files to be included: $src_files"
+echo "directories to be included $src_directories"
+echo "files archived $arch_files"
+echo "directories archived $arch_directories"
 
-echo "Backup of $input completed!"
-echo " Details about the output file:"
-ls -l $output
-
+if [ $src_files -eq $arch_files ]; then
+	echo "Backup of $input completed!"
+	echo "Details about the output backup file:"
+	ls -l $output
+else
+	echo "Backup of $input failed!"
+fi
