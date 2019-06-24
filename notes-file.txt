@@ -1,9 +1,11 @@
 Following Bash tutorial @ https://linuxconfig.org/bash-scripting-tutorial-for-beginners
 __________________________________________________________
 
+##For explainations on syntaxes and flags: man bash
 
 
 make script executable by running "chmod +x <filename>" 
+-or chmod 777 <filename>
 
 stdin = standard input
 stdout = standard output
@@ -38,6 +40,12 @@ tar
 	or by ingoring the spaces with `\` 
 __________________________________________________________
 
+Parameters Operators:
+	$1 $2 ... $n input parameters in the order they are recieved
+	$# - number of arguments supplied
+	$* - prints all arguments
+
+ 
 
 make sure to use spaces inside square-brackets expressions to avoid syntactical errors
 
@@ -45,6 +53,7 @@ make sure to use spaces inside square-brackets expressions to avoid syntactical 
 
 (exit status) - https://bash.cyberciti.biz/guide/The_exit_status_of_a_command
 
+_________________________________________________________
 
 
     

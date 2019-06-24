@@ -1,5 +1,14 @@
 #!/bin/bash
 
+if [ -z $1 ]; then
+	user=$(whoami)
+else
+	if [ ! -d "/home/$1" ]; then
+		echo "Requested $1 user home directory doesn't exit."
+		exit 1
+	fi
+	user=$1
+
 user=$(whoami)
 input=/home/$user/Documents
 output=/tmp/${user}_docs_$(date +%Y-%m-%d+%H%M%S).tar.gz
