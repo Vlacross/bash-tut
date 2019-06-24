@@ -3,6 +3,14 @@ __________________________________________________________
 
 ##For explainations on syntaxes and flags: man bash
 
+MAN-PAGES quick ref
+Conditional Expressions line 2015;
+
+
+
+
+
+
 
 make script executable by running "chmod +x <filename>" 
 -or chmod 777 <filename>

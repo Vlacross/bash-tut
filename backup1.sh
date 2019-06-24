@@ -8,6 +8,7 @@ else
 		exit 1
 	fi
 	user=$1
+fi
 
 user=$(whoami)
 input=/home/$user/Documents
@@ -49,3 +50,4 @@ if [ $src_files -eq $arch_files ]; then
 else
 	echo "Backup of $input failed!"
 fi
+
