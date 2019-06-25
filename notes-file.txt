@@ -12,7 +12,8 @@ Conditional Expressions line 2015;
 
 
 
-make script executable by running "chmod +x <filename>" 
+make script executable by running "chmod +x <filename>"
+	careful not to use "-x" similar to a flag 
 -or chmod 777 <filename>
 
 stdin = standard input
