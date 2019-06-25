@@ -2,8 +2,11 @@
 
 if [ -z $1 ]; then
 	echo "Requires a file to read character count of each line!"
+	exit
 fi
 
+IFS=$'\n'
+
 for i in $( cat $1 ); do
-	echo -n $i | wc -c
+	echo $i "has" $( echo $i | wc -c ) "letters."
 done
