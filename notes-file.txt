@@ -1,5 +1,7 @@
 Following Bash tutorial @ https://linuxconfig.org/bash-scripting-tutorial-for-beginners
 __________________________________________________________
+Second tutorial found @ https://www.shellscript.sh
+__________________________________________________________
 
 ##For explainations on syntaxes and flags: man bash
 
