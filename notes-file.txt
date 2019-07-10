@@ -65,7 +65,15 @@ make sure to use spaces inside square-brackets expressions to avoid syntactical 
 (exit status) - https://bash.cyberciti.biz/guide/The_exit_status_of_a_command
 
 _________________________________________________________
+Quick rundown on lock files and 'flock' command
+  along with an example use of trap which captures interrupt signals
+flock - https://dmorgan.info/posts/linux-lock-files/
+trap - https://bash.cyberciti.biz/guide/Trap_statement
+_________________________________________________________
 
+
+
+_________________________________________________________
 
     
 
