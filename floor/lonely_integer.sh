@@ -46,8 +46,8 @@ while IFS='\n' read line
 		if [ "$occurance" -ge 2 ] && [ "${arr[j]}" == "${arr[i]}" ]	
 							#if two or more occurances are found
 		  then					#remove from array to single
-		    unset arr[j] 			#out unique elements
-		fi
+		  unset arr[j] 			#out unique elements
+		  fi
 		j=$[ $j+1 ]				#increment inner loop 
 	      done
 
