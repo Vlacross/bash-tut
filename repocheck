@@ -1,0 +1,20 @@
+#!/bin/bash
+
+echo -e "\e[1;33mprinting remote-urls for git repos in current dir:\n\e[0m"
+
+for i in $(ls -al | awk '{print $9}');
+	do
+		if [ $i == '.' ] || [ $i == '..' ] || [ $i == '.git' ]; then
+			continue
+		fi
+		
+		if [[ -d $i ]]; then
+			cd $i
+			k=$(ls -al | grep .git | wc -l) 
+			if  [ $k -ne 0 ]; then
+				echo -e "\e[1;4;36m$i\e[0m: \n$(git remote -v | tr ")" ") \n") \n"
+			fi
+			cd ..
+		fi
+	done
+		
