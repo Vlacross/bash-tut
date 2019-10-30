@@ -1,0 +1,818 @@
+HTTP/1.1 200 OK Date: Wed
+ 02 Oct 2019 15:16:45 GMT Content-Type: application/json; charset=utf-8 Transfer-Encoding: chunked Connection: keep-alive Vary: Accept-Encoding Vary: Origin ETag: W/"5ac560740b6988c85b2768a4f657fb48" Cache-Control: max-age=0
+ private
+ must-revalidate X-Request-Id: d21e485c6fd6538dda7156fedb5a7f02 X-Runtime: 0.023862 Strict-Transport-Security: max-age=15724800; includeSubDomains X-XSS-Protection: 1; mode=block X-Download-Options: noopen  
+"items":[
+"id":3982450
+"text":"Abraham Baldwin Agricultural College"
+
+
+"id":3982484
+"text":"Academy of Art University"
+
+
+"id":3982502
+"text":"Acadia University"
+
+
+"id":3982520
+"text":"Adams State University"
+
+
+"id":3982545
+"text":"Adelphi University"
+
+
+"id":3982567
+"text":"Adrian College"
+
+
+"id":3982599
+"text":"Adventist University of Health Sciences"
+
+
+"id":3982631
+"text":"Agnes Scott College"
+
+
+"id":3982669
+"text":"AIB College of Business"
+
+
+"id":3982703
+"text":"Alaska Pacific University"
+
+
+"id":3982737
+"text":"Albany College of Pharmacy and Health Sciences"
+
+
+"id":3982766
+"text":"Albany State University"
+
+
+"id":3982790
+"text":"Albertus Magnus College"
+
+
+"id":3982809
+"text":"Albion College"
+
+
+"id":3982830
+"text":"Albright College"
+
+
+"id":3982852
+"text":"Alderson Broaddus University"
+
+
+"id":3982875
+"text":"Alfred University"
+
+
+"id":3982898
+"text":"Alice Lloyd College"
+
+
+"id":3982913
+"text":"Allegheny College"
+
+
+"id":3982949
+"text":"Allen College"
+
+
+"id":3982956
+"text":"Allen University"
+
+
+"id":3982966
+"text":"Alliant International University"
+
+
+"id":3982988
+"text":"Alma College"
+
+
+"id":3983011
+"text":"Alvernia University"
+
+
+"id":3983038
+"text":"Alverno College"
+
+
+"id":3983066
+"text":"Amberton University"
+
+
+"id":3983120
+"text":"American Academy of Art"
+
+
+"id":3983129
+"text":"American Indian College of the Assemblies of God"
+
+
+"id":3983155
+"text":"American InterContinental University"
+
+
+"id":3983189
+"text":"American International College"
+
+
+"id":3983208
+"text":"American Jewish University"
+
+
+"id":3983254
+"text":"American Public University System"
+
+
+"id":3983276
+"text":"American University"
+
+
+"id":3983306
+"text":"American University in Bulgaria"
+
+
+"id":3983334
+"text":"American University in Cairo"
+
+
+"id":3983362
+"text":"American University of Beirut"
+
+
+"id":3983380
+"text":"American University of Paris"
+
+
+"id":3983401
+"text":"American University of Puerto Rico"
+
+
+"id":3983420
+"text":"Amherst College"
+
+
+"id":3983446
+"text":"Amridge University"
+
+
+"id":3983480
+"text":"Anderson University"
+
+
+"id":3983508
+"text":"Andrews University"
+
+
+"id":3983531
+"text":"Angelo State University"
+
+
+"id":3983554
+"text":"Anna Maria College"
+
+
+"id":3983574
+"text":"Antioch University"
+
+
+"id":3983591
+"text":"Appalachian Bible College"
+
+
+"id":3983611
+"text":"Aquinas College"
+
+
+"id":3983630
+"text":"Arcadia University"
+
+
+"id":3983662
+"text":"Argosy University"
+
+
+"id":3983704
+"text":"Arizona Christian University"
+
+
+"id":3983739
+"text":"Arizona State University - West"
+
+
+"id":3983798
+"text":"Arkansas Baptist College"
+
+
+"id":3983830
+"text":"Arkansas Tech University"
+
+
+"id":3983885
+"text":"Armstrong Atlantic State University"
+
+
+"id":3983912
+"text":"Art Academy of Cincinnati"
+
+
+"id":3983937
+"text":"Art Center College of Design"
+
+
+"id":3983964
+"text":"Art Institute of Atlanta"
+
+
+"id":3983990
+"text":"Art Institute of Colorado"
+
+
+"id":3984020
+"text":"Art Institute of Houston"
+
+
+"id":3984075
+"text":"Art Institute of Pittsburgh"
+
+
+"id":3984100
+"text":"Art Institute of Portland"
+
+
+"id":3984122
+"text":"Art Institute of Seattle"
+
+
+"id":3984139
+"text":"Asbury University"
+
+
+"id":3984158
+"text":"Ashford University"
+
+
+"id":3984177
+"text":"Ashland University"
+
+
+"id":3984197
+"text":"Assumption College"
+
+
+"id":3984220
+"text":"Athens State University"
+
+
+"id":3984241
+"text":"Auburn University - Montgomery"
+
+
+"id":3984264
+"text":"Augsburg College"
+
+
+"id":3984288
+"text":"Augustana College"
+
+
+"id":3984326
+"text":"Aurora University"
+
+
+"id":3984340
+"text":"Austin College"
+
+
+"id":3984360
+"text":"Alcorn State University"
+
+
+"id":3984378
+"text":"Ave Maria University"
+
+
+"id":3984393
+"text":"Averett University"
+
+
+"id":3984412
+"text":"Avila University"
+
+
+"id":3984434
+"text":"Azusa Pacific University"
+
+
+"id":3984456
+"text":"Babson College"
+
+
+"id":3984476
+"text":"Bacone College"
+
+
+"id":3984496
+"text":"Baker College of Flint"
+
+
+"id":3984516
+"text":"Baker University"
+
+
+"id":3984545
+"text":"Baldwin Wallace University"
+
+
+"id":3984570
+"text":"Christian Brothers University"
+
+
+"id":3984595
+"text":"Abilene Christian University"
+
+
+"id":3984648
+"text":"Arizona State University"
+
+
+"id":3984676
+"text":"Auburn University"
+
+
+"id":3984696
+"text":"Alabama A\u0026M University"
+
+
+"id":3984755
+"text":"Alabama State University"
+
+
+"id":3984804
+"text":"Arkansas State University"
+
+
+"id":3984859
+"text":"Baptist Bible College"
+
+
+"id":3984880
+"text":"Baptist Bible College and Seminary"
+
+
+"id":3984915
+"text":"Baptist College of Florida"
+
+
+"id":3984952
+"text":"Baptist Memorial College of Health Sciences"
+
+
+"id":3984982
+"text":"Baptist Missionary Association Theological Seminary"
+
+
+"id":3985012
+"text":"Bard College"
+
+
+"id":3985052
+"text":"Bard College at Simon's Rock"
+
+
+"id":3985076
+"text":"Barnard College"
+
+
+"id":3985103
+"text":"Barry University"
+
+
+"id":3985131
+"text":"Barton College"
+
+
+"id":3985151
+"text":"Bastyr University"
+]
+"meta":
+"total_count":2464
+"per_page":100
+
+
+HTTP/1.1 200 OK Date: Wed
+ 02 Oct 2019 15:16:45 GMT Content-Type: application/json; charset=utf-8 Transfer-Encoding: chunked Connection: keep-alive Vary: Accept-Encoding Vary: Origin ETag: W/"2fc1174378c5f787e814c85f32e39854" Cache-Control: max-age=0
+ private
+ must-revalidate X-Request-Id: a8e5af5f442ffc8efbd3a81f1bead34c X-Runtime: 0.024928 Strict-Transport-Security: max-age=15724800; includeSubDomains X-XSS-Protection: 1; mode=block X-Download-Options: noopen  
+"items":[
+"id":3985170
+"text":"Bates College"
+
+
+"id":3985192
+"text":"Bauder College"
+
+
+"id":3985221
+"text":"Bay Path College"
+
+
+"id":3985251
+"text":"Bay State College"
+
+
+"id":3985289
+"text":"Bayamon Central University"
+
+
+"id":3985314
+"text":"Beacon College"
+
+
+"id":3985336
+"text":"Becker College"
+
+
+"id":3985356
+"text":"Belhaven University"
+
+
+"id":3985374
+"text":"Bellarmine University"
+
+
+"id":3985386
+"text":"Bellevue College"
+
+
+"id":3985403
+"text":"Bellevue University"
+
+
+"id":3985420
+"text":"Bellin College"
+
+
+"id":3985439
+"text":"Belmont Abbey College"
+
+
+"id":3985468
+"text":"Belmont University"
+
+
+"id":3985518
+"text":"Beloit College"
+
+
+"id":3985553
+"text":"Bemidji State University"
+
+
+"id":3985621
+"text":"Benedict College"
+
+
+"id":3985653
+"text":"Benedictine College"
+
+
+"id":3985690
+"text":"Benedictine University"
+
+
+"id":3985717
+"text":"Benjamin Franklin Institute of Technology"
+
+
+"id":3985756
+"text":"Bennett College"
+
+
+"id":3985775
+"text":"Bennington College"
+
+
+"id":3985794
+"text":"Bentley University"
+
+
+"id":3985829
+"text":"Berea College"
+
+
+"id":3985873
+"text":"Berkeley College"
+
+
+"id":3985883
+"text":"Berklee College of Music"
+
+
+"id":3985927
+"text":"Berry College"
+
+
+"id":3985964
+"text":"Bethany College"
+
+
+"id":3986002
+"text":"Bethany Lutheran College"
+
+
+"id":3986032
+"text":"Bethel College"
+
+
+"id":3986049
+"text":"Bethel University"
+
+
+"id":3986083
+"text":"BI Norwegian Business School"
+
+
+"id":3986101
+"text":"Binghamton University - SUNY"
+
+
+"id":3986124
+"text":"Biola University"
+
+
+"id":3986145
+"text":"Birmingham-Southern College"
+
+
+"id":3986169
+"text":"Bismarck State College"
+
+
+"id":3986195
+"text":"Black Hills State University"
+
+
+"id":3986222
+"text":"Blackburn College"
+
+
+"id":3986237
+"text":"Blessing-Rieman College of Nursing"
+
+
+"id":3986266
+"text":"Bloomfield College"
+
+
+"id":3986287
+"text":"Bloomsburg University of Pennsylvania"
+
+
+"id":3986307
+"text":"Blue Mountain College"
+
+
+"id":3986334
+"text":"Bluefield College"
+
+
+"id":3986351
+"text":"Bluefield State College"
+
+
+"id":3986365
+"text":"Bluffton University"
+
+
+"id":3986389
+"text":"Boricua College"
+
+
+"id":3986393
+"text":"Boston Architectural College"
+
+
+"id":3986413
+"text":"Boston Conservatory"
+
+
+"id":3986427
+"text":"Boston University"
+
+
+"id":3986443
+"text":"Bowdoin College"
+
+
+"id":3986449
+"text":"Bowie State University"
+
+
+"id":3986453
+"text":"Bradley University"
+
+
+"id":3986471
+"text":"Brandeis University"
+
+
+"id":3986488
+"text":"Brandman University"
+
+
+"id":3986504
+"text":"Brazosport College"
+
+
+"id":3986522
+"text":"Brenau University"
+
+
+"id":3986549
+"text":"Brescia University"
+
+
+"id":3986568
+"text":"Brevard College"
+
+
+"id":3986583
+"text":"Brewton-Parker College"
+
+
+"id":3986600
+"text":"Briar Cliff University"
+
+
+"id":3986605
+"text":"Briarcliffe College"
+
+
+"id":3986626
+"text":"Bridgewater College"
+
+
+"id":3986647
+"text":"Bridgewater State University"
+
+
+"id":3986667
+"text":"Brigham Young University - Hawaii"
+
+
+"id":3986694
+"text":"Brigham Young University - Idaho"
+
+
+"id":3986715
+"text":"Brock University"
+
+
+"id":3986737
+"text":"Bryan College"
+
+
+"id":3986761
+"text":"Bryn Athyn College of the New Church"
+
+
+"id":3986781
+"text":"Bryn Mawr College"
+
+
+"id":3986815
+"text":"Boston College"
+
+
+"id":3986822
+"text":"Buena Vista University"
+
+
+"id":3986846
+"text":"Burlington College"
+
+
+"id":3986864
+"text":"Bowling Green State University"
+
+
+"id":3986892
+"text":"Brown University"
+
+
+"id":3986918
+"text":"Appalachian State University"
+
+
+"id":3986943
+"text":"Brigham Young University - Provo"
+
+
+"id":3986964
+"text":"Boise State University"
+
+
+"id":3986984
+"text":"Bethune-Cookman University"
+
+
+"id":3987006
+"text":"Bryant University"
+
+
+"id":3987033
+"text":"Cabarrus College of Health Sciences"
+
+
+"id":3987056
+"text":"Cabrini College"
+
+
+"id":3987074
+"text":"Cairn University"
+
+
+"id":3987093
+"text":"Caldwell College"
+
+
+"id":3987110
+"text":"California Baptist University"
+
+
+"id":3987131
+"text":"California College of the Arts"
+
+
+"id":3987150
+"text":"California Institute of Integral Studies"
+
+
+"id":3987174
+"text":"California Institute of Technology"
+
+
+"id":3987199
+"text":"California Institute of the Arts"
+
+
+"id":3987233
+"text":"California Lutheran University"
+
+
+"id":3987256
+"text":"California Maritime Academy"
+
+
+"id":3987275
+"text":"California State Polytechnic University - Pomona"
+
+
+"id":3987293
+"text":"California State University - Bakersfield"
+
+
+"id":3987311
+"text":"California State University - Channel Islands"
+
+
+"id":3987334
+"text":"California State University - Chico"
+
+
+"id":3987359
+"text":"California State University - Dominguez Hills"
+
+
+"id":3987397
+"text":"California State University - East Bay"
+
+
+"id":3987433
+"text":"California State University - Fullerton"
+
+
+"id":3987464
+"text":"California State University - Los Angeles"
+
+
+"id":3987487
+"text":"California State University - Monterey Bay"
+
+
+"id":3987518
+"text":"California State University - Northridge"
+]
+"meta":
+"total_count":2464
+"per_page":100
+
+

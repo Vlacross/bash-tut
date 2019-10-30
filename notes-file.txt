@@ -33,6 +33,13 @@ So certain commands like 'cd' change the directory on the subshell, but no in th
 
 for my "make directory and change into" script, I implanted into my bashrc file, though only to escape the scope restriction.
 __________________________________________________________
+Started going through bash challenges on HackerRank which goes through a lot of
+text formatting and searching, quite good practice with Bash syntax.
+
+
+
+
+__________________________________________________________
 
 Basic tar commands:
 
