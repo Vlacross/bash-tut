@@ -1,0 +1,27 @@
+#!/bin/bash
+
+while test $# -gt 0; do
+	case "$1" in
+		-h| --help)
+			echo " "
+			echo "From - List file from date."
+			echo "No Argumenet prints files created on current date"
+			echo " "
+			echo "from"
+			echo " "
+			echo "-h, --h				Show ths help message."
+			echo " "
+			exit 0
+			;;
+		*)
+			echo "Unrecognized Entry"
+			echo "For help, try from -h"
+			exit 1
+	esac
+done;
+
+ls -al | while read line; 
+	do 
+		echo $line | awk -v month="$(date +%b)" -v day="$(date +%d)" '{ if ( month == $6 && day == $7 ) { print $9 } }'
+done;
+
